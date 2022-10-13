@@ -1,0 +1,23 @@
+GIT STASH:
+Using the git stash command, developers can temporarily save changes made in the working directory. It allows them to quickly switch contexts when they are not quite ready to commit changes. And it allows them to more easily switch between branches.
+Generally, the stash's meaning is "store something safely in a hidden place." 
+
+git stash
+git stash apply
+git stash list
+git stash pop
+git stash clear
+
+GIT HUB: 
+GitHub is a web-based platform used for version control. 
+It simplifies the process of working with other people and makes it easy to collaborate on projects. 
+Team members can work on files and easily merge their changes in with the master branch of the project.
+
+
+ATTACH GIT TO GITHUB : git remote add origin REPO_URL
+
+PUSH CODE FROM GIT TO GITHUB: git push -u origin branch-name
+
+TO CLONE CODE: git clone REPO_URL
+
+GIT FORK: A fork is a rough copy of a repository. Forking a repository allows you to freely test and debug with changes without affecting the original project
